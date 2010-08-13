@@ -1,4 +1,7 @@
 <div>
+	<div style="color: black; font-size: 1.2em; margin-bottom: 1.5em; font-weight: bold;">
+		El NICCAD pretende ser una estructura transversal que promueva la integración de investigadores con formación variada, tratando de aportar sus propios puntos de vista sobre la utilización de las técnicas matemáticas y de computación para la resolución de diversos problemas científicos.
+	</div>
 	<div style="text-align: center;">
 		<div id="feature_list" style="margin:auto; text-align:left;">
 			<ul id="tabs">
@@ -27,7 +30,7 @@
 				<span></span> </a></li>
 				
 				<li><a href="javascript:;">
-				<h3>Laboratorio de Química Teorica y Computacional</h3>
+				<h3>Laboratorio de Química Teórica y Computacional</h3>
 				<span></span> </a></li>
 				
 				<li><a href="javascript:;">
@@ -173,13 +176,13 @@
 					Los objetivos principales del LPE son desarrollar y poner a punto técnicas probabilísticas y estadísticas de análisis de información que colaboren en la solución de los diversos problemas tecnológicos y científicos de interés nacional, y contribuir a formar los recursos humanos capaces de llevar adelante tales tareas en los diversos ámbitos de la actividad nacional.
 					<br/><br/>
 					Si bien hay un énfasis muy importante en la realización de trabajo aplicado, una característica destacable del grupo es la búsqueda de un equilibrio entre las actividades más aplicadas y las de fundamentación básica. Por lo tanto, si bien el LPE apunta preferentemente a la investigación aplicada o de mayor impacto directo sobre aplicaciones, requiere a todos sus integrantes la realización de actividades de formación (y cuando corresponde, de investigación) básica en Probabilidad y Estadística.</a></li>
-								<li>
+								<li style="display: none;">
 					<a href="http://www.fing.edu.uy/inco/grupos/cecal/hpc/">
 						<b>Grupo de investigación:</b><br />
-						Laboratorio de Química Teorica y Computacional<br />
+						Laboratorio de Química Teórica y Computacional<br />
 						<br/>
 						<b>Institución:</b><br />
-						Instituto de Química Biologica, Facultad de Ciencias<br />
+						Instituto de Química Biológica, Facultad de Ciencias<br />
 						<br />
 						<b>Responsable:</b><br />
 						Laura Coitiño<br />
@@ -188,18 +191,18 @@
 						Laura Coitiño<br />
 						<br />
 						<b>Áreas temáticas de investigación:</b><br />
-						a) Modelado QM y QM/MM de sistemas moleculares de interes biomedico y
-						bioquimico (en especial bases moleculares de patologias humanas, por ej.
-						procesos de glicacion de peptidos y proteinas relevantes en Diabetes,
-						Alzheimer y Cancer; alteraciones de ADN vinculado a la generacion de
-						patologias de origen genetico; nitracion de acidos grasos);<br/><br/>
-						b) Screening in silico de potenciales farmacos anticancerigenos de Pt, Pd
-						y Ru con herramientas bioinformaticas de data mining acopladas a metodos
-						QM; mecanismos de transporte biomolecular y mecanismo de accion molecular
+						a) Modelado QM y QM/MM de sistemas moleculares de interés biomédico y
+						bioquímico (en especial bases moleculares de patologías humanas, por ej.
+						procesos de glicación de péptidos y proteinas relevantes en Diabetes,
+						Alzheimer y Cancer; alteraciones de ADN vinculado a la generación de
+						patologías de origen genético; nitración de ácidos grasos);<br/><br/>
+						b) Screening in sílico de potenciales fármacos anticancerígenos de Pt, Pd
+						y Ru con herramientas bioinformáticas de data mining acopladas a métodos
+						QM; mecanismos de transporte biomolecular y mecanismo de acción molecular
 						en el organismo;<br/><br/>
-						c) Optimizacion in silico de sensores para daño de ADN basados en
+						c) Optimización in sílico de sensores para daño de ADN basados en
 						compuestos de Ru que actuan como switches moleculares de luz;<br/><br/>
-						d) Enzimologia computacional (ej.mecanismo de accion de la  Etanolamina
+						d) Enzimología computacional (ej.mecanismo de acción de la  Etanolamina
 						amonio lias).
 					</a>
 				</li>
