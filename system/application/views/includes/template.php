@@ -16,7 +16,7 @@
 				<div id="page-header-body">
 					<a href="<?php echo base_url();?>index.php"><img src="<?php echo base_url();?>img/niccad.png"></img></a>
 					<p>
-						Núcleo Interdisciplinario de Computación Científica de Alto Desempeño
+						El Núcleo Interdisciplinario de Computación Científica de Alto Desempeño (NICCAD) está integrado por investigadores interesados en las temáticas de métodos matemáticos y computacionales aplicados a la resolución de problemas científicos y de computación de alto desempeño. 
 					</p>
 				</div>
 			</div>
