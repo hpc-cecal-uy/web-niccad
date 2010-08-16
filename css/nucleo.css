@@ -1,53 +1,60 @@
+.contenido {
+	text-align: justify;
+	margin-bottom: 1.5em;
+	font-size: 1.2em;	
+}
+
 h3 {
 	margin: 0;
 	padding: 7px 0 0 0;
-	font-size: 16px;
-	text-transform: uppercase;
+	font-size: 1.4em;
+	/*text-transform: uppercase;*/
 }
 
 div#feature_list {
 	width: 890px;
-	height: 670px;
-	overflow: hidden;
+	height: 620px;
+	/*overflow: hidden;*/
 	position: relative;
 }
 
 div#feature_list ul {
 	position: absolute;
-	top: 0;
 	list-style: none;
+	top: 0;
 	padding: 0;
 	margin: 0;
 }
 
-ul#tabs {
+div#feature_list ul#tabs {
 	left: 0;
 	z-index: 2;
-	width: 320px;
+	width: 240px;
+	padding-top: 10px;
+	margin-top: 10px;
+	top: 10px;
+	position: relative;
 }
 
 ul#tabs li {
-	font-size: 12px;
-	font-family: Arial;
-}
-
-ul#tabs li img {
-	padding: 5px;
-	border: none;
-	float: left;
-	margin: 10px 10px 0 0;
+	font-size: 14px;
 }
 
 ul#tabs li a {
-	color: #222;
 	text-decoration: none;
 	display: block;
 	padding-right: 15px;
 	padding-left: 5px;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	height: 50px;
+	height: 38px;
 	outline: none;
+	
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
 }
 
 ul#tabs li a:hover {
@@ -55,8 +62,19 @@ ul#tabs li a:hover {
 }
 
 ul#tabs li a.current {
-	background: url('../img/feature-tab-current_320x60.png');
+	font-weight: bold;
 	color: #FFF;
+	
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	
+	background-color: #5EA3CE;
+	border-color: #5EA3CE;
+	border-style: solid;
+	border-width: 1px;
 }
 
 ul#tabs li a.current:hover {
@@ -66,40 +84,34 @@ ul#tabs li a.current:hover {
 
 ul#output {
 	right: 0;
-	width: 560px;
-	/*height: 750px;*/
+	width: 660px;
 	position: relative;
 }
 
 ul#output li {
 	position: absolute;
-	width: 560px;
-	/*height: 750px;*/
-}
-
-ul#output li a {
-	position: absolute;
 	top: 0px;
 	left: 10px;
-	width: 525px;
-	height: 650px;
+	height: 600px;
 	padding: 8px 12px;
 	text-decoration: none;
 	font-size: 13px;
 	
-	color: #FFF;
-	background: #000;
-	background-image: url('../img/ver_mas_2.png');
-	background-repeat: no-repeat;
-	background-position: 465px 630px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-moz-border-radius-bottomright: 5px;
 	
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	
+	border-color: #5EA3CE;
+	border-style: solid;
+	border-width: 1px;
+	
 	text-align: justify;
-}
-
-ul#output li a:hover {
-	background-color: #222222;
 }
 
 .logos {
