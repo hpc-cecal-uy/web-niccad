@@ -20,6 +20,14 @@
 					</p>
 				</div>
 			</div>
+			<div class="menu">
+				<ul>
+					<li><a href="#integracion">Integración</a></li>
+					<li><a href="#cometidos">Cometidos</a></li>
+					<li><a href="#estructura">Estructura</a></li>
+					<li><a href="#grupos">Grupos</a></li>
+				</ul>
+			</div>
 			
 			<div id="page-body">
 				<?php $this->load->view($body); ?>
