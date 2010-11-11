@@ -27,6 +27,9 @@
 		tendrá a su cargo las principales actividades relacionadas con la redacción y ejecución de los
 		proyectos interdisciplinarios, la formación de investigadores y la difusión de las estrategias de
 		trabajo en el área.
+		
+		Responsable Científico (período 2010-2012): Ismael Piedra-Cueva
+		Responsable Académico  (período 2010-2012): Sergio Nesmachnow
 	</div>
 	<h3><a name="grupos">Grupos en el NICCAD</a></h3>
 	<div style="text-align: center;">
