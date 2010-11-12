@@ -46,6 +46,7 @@
 				<li><a href="javascript:;">MINA (Network Management - Artificial Intelligence)<span></span></a></li>
 				<li><a href="javascript:;">Modelación numérica del Río de la Plata y el Frente Marítimo<span></span></a></li>		
 				<li><a href="javascript:;">Simulación numérica de convertidores energéticos<span></span></a></li>
+				<li><a href="javascript:;">Sistemas de Energía Eléctrica<span></span></a></li>
 			</ul>
 			<ul id="output">
 				<li>
@@ -264,6 +265,22 @@
 					Desarrollo y aplicación de modelos numéricos para determinar el funcionamiento de diversos convertidores energéticos, a través de las variables de estado y los parámetros de funcionamiento del ciclo correspondiente. Utilizando las simulaciones numéricas se determinan además los parámetros que deben modificarse para obtener resultados cuantitativamente realistas con modelos teóricos. De esta forma se pueden estudiar los sistemas termodinámicos en laboratorios virtuales. Actualmente se están estudiando los siguientes temas:<br/><br/>
 					- Aplicación de herramientas teóricas de Termodinámica de Tiempos Finitos para optimizar motores de combustión interna.<br/><br/>
 					- Evaluación y análisis no lineal de un modelo estocástico que reproduce la variabilidad cíclica en motores de encendido por chispa.
+				</li>
+				<li style="display: none;">
+					<b>Grupo de investigación:</b><br />
+					Sistemas de Energía Eléctrica<br />
+					<br/>
+					<b>Institución:</b><br />
+					IIE, Facultad de Ingeniería<br />
+					<br />
+					<b>Responsable:</b><br />
+					Ruben Chaer<br />
+					<br />
+					<b>Representante ante el NICCAD:</b><br />
+					Ruben Chaer<br />
+					<br />
+					<b>Áreas temáticas de investigación:</b><br />
+					Operación y planificación óptima de Sistemas de Energía Eléctrica.
 				</li>
 			</ul>
 		</div>
