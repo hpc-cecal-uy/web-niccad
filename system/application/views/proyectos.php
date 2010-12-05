@@ -33,8 +33,8 @@
 				numérica fueron contrastados con mediciones en campo de
 				velocidad y dirección de viento.</span>
 			</div>
-			<div style="text-align: right;"><a href="<?php echo base_url();?>downloads/prediccion_empim_formato.pdf" 
-				style="background-image: url(../img/1291578964_page_white_acrobat.png); background-repeat: no-repeat; padding-left: 24px;">descargar</a></div>
+			<div style="text-align: right; margin-bottom: 5px;"><a href="<?php echo base_url();?>downloads/prediccion_empim_formato.pdf" 
+				style="background-image: url(../img/1291578964_page_white_acrobat.png); background-repeat: no-repeat; padding-left: 24px; padding-bottom: 2px;">descargar</a></div>
 		</div>
 	</div>
 </div>

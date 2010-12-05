@@ -206,7 +206,7 @@
 					Luis Acerenza<br />
 					<br />
 					<b>Representante ante el NICCAD:</b><br />
-					Luis Acerenza<br />
+					Miguel Ponce de Leon<br />
 					<br />
 					<b>Áreas temáticas de investigación:</b><br />
 					Desarrollo de estrategias generales para el análisis y diseño de procesos metabólicos en sistemas celulares. En particular, desarrollo de métodos modulares y de grandes cambios.<br/><br />
