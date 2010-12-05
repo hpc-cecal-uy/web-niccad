@@ -22,10 +22,11 @@
 			</div>
 			<div class="menu">
 				<ul>
-					<li><a href="#integracion">Integración</a></li>
-					<li><a href="#cometidos">Cometidos</a></li>
-					<li><a href="#estructura">Estructura</a></li>
-					<li><a href="#grupos">Grupos</a></li>
+					<li><a href="<?php echo base_url();?>index.php#integracion">Integración</a></li>
+					<li><a href="<?php echo base_url();?>index.php#cometidos">Cometidos</a></li>
+					<li><a href="<?php echo base_url();?>index.php#estructura">Estructura</a></li>
+					<li><a href="<?php echo base_url();?>index.php#grupos">Grupos</a></li>
+					<li><a href="<?php echo base_url();?>index.php/proyectos">Proyectos</a></li>
 				</ul>
 			</div>
 			
