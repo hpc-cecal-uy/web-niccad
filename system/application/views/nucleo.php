@@ -20,15 +20,15 @@
 		institutos de Facultad de Ingeniería y de otros servicios de la Universidad de la República.
 		Asimismo, podrán integrarse investigadores asociados de otras Universidades (locales y
 		extranjeras). También podrán integrar el núcleo estudiantes de posgrado de las diversas áreas
-		de investigación relacionadas con la temática de interés.<br/><br/>
-		
+		de investigación relacionadas con la temática de interés.<br/>
+		<br />
 		El NICCAD tendrá un responsable científico, que representará al núcleo en instancias formales
 		y ante las autoridades de la Universidad de la República, y un responsable académico que
 		tendrá a su cargo las principales actividades relacionadas con la redacción y ejecución de los
 		proyectos interdisciplinarios, la formación de investigadores y la difusión de las estrategias de
-		trabajo en el área.
-		
-		Responsable Científico (período 2010-2012): Ismael Piedra-Cueva
+		trabajo en el área.<br />
+	    <br />
+		Responsable Científico (período 2010-2012): Ismael Piedra-Cueva<br />
 		Responsable Académico  (período 2010-2012): Sergio Nesmachnow
 	</div>
 	<h3><a name="grupos">Grupos en el NICCAD</a></h3>
@@ -39,7 +39,10 @@
 				<li><a href="javascript:;">Computational chemistry and biology group<span></span></a></li>
 				<li><a href="javascript:;">Física Computacional<span></span></a></li>
 				<li><a href="javascript:;">Geofísica Planetaria<span></span></a></li>
+				<li><a href="javascript:;">Grupo de Trabajo en Energías Renovables<span></span></a></li>
+				<li><a href="javascript:;">Ingeniería del Viento<span></span></a></li>
 				<li><a href="javascript:;">Investigacion Operativa<span></span></a></li>
+				<li><a href="javascript:;">Laboratorio de Biología de Sistemas<span></span></a></li>
 				<li><a href="javascript:;">Laboratorio de Probabilidad y Estadística (LPE)<span></span></a></li>
 				<li><a href="javascript:;">Laboratorio de Química Teórica y Computacional<span></span></a></li>
 				<li><a href="javascript:;">Mecánica de los Fluidos Computacional<span></span></a></li>
@@ -132,6 +135,46 @@
 				</li>
 				<li style="display: none;">
 					<b>Grupo de investigación:</b><br />
+					Grupo de Trabajo en Energías Renovables<br />
+					<br/>
+					<b>Institución:</b><br />
+					Facultad de Ingeniería<br />
+					<br />
+					<b>Responsables:</b><br />
+					José Cataldo, Ventura Nunes, Gonzalo Casaravilla<br />
+					<br />
+					<b>Integrantes:</b><br />
+					José Cataldo, Ventura Nunes, Gonzalo Casaravilla, Valeria Durañona,
+					Mario Vignolo, Ruben Chaer, Alejandro Gutiérrez, Martín Zeballos
+					Rodolfo Pienika, Gabriel Narancio, Pablo Toscano<br />
+					<br />
+					<b>Áreas temáticas de investigación:</b><br />
+					El creciente interés en Uruguay y el mundo de energías renovables condujo a la conformación de este grupo integrado por docentes del IMFIA y del IIE de la Facultad de Ingeniería. Este grupo inicialmente se interesó en la evaluación del potencial eólico en Uruguay, aunque luego se fue incursionando en la evaluación del potencial hidráulico a escalas micro, mini y pequeña y la caracterización del uso de la energía solar fotovoltaica, habiéndose diseñado instalaciones para escuelas rurales y destacamento policiales.<br />
+					Se han desarrollado técnicas de evaluación del potencial eólico basadas en modelación física, en mediciones de corta duración y en modelación numérica. Los modelos físicos se corren en el túnel de viento tipo capa límite de la Facultad de Ingeniería, el cual presenta una zona de trabajo de 17m de longitud, 2.25m de ancho y 2.1m de alto y se encuentra equipado con un robot posicionador, un anemómetro de hilo caliente y un sistema de visualización de flujos. Asimismo, se ha desarrollado la herramienta Sistema de Simulación de Energía Eléctrica (SIMSEE) que permite modelar el funcionamiento de un sistema eléctrico de diversas escalas.<br />
+					Este grupo ha llevado adelante diversos trabajos sobre evaluación del potencial eólico, tanto para instituciones públicas como empresas privadas, produjo el mapa eólico del Uruguay, el mapa solar del Uruguay, instaló el primer aerogenerador industrial en el país del cual ensayó su curva característica como las emisiones acústicas, y desarrolló metodologías, junto a sociólogos, orientadas a la implantación de energías renovables en zonas alejadas de la red. En materia de gestión de la energía se condujo un ejercicio de Prospectiva Tecnológica en Energía a solicitud de la Presidencia de la República y actualmente se viene desarrollando un Plan Estratégico de Energía para Montevideo.<br />
+				</li>
+				<li style="display: none;">
+					<b>Grupo de investigación:</b><br />
+					Ingeniería del Viento<br />
+					<br/>
+					<b>Institución:</b><br />
+					Facultad de Ingeniería<br />
+					<br />
+					<b>Responsable:</b><br />
+					José Cataldo<br />
+					<br />
+					<b>Integrantes:</b><br />
+					José Cataldo, Valeria Durañona, Alejandro Gutiérrez,
+					Martín Zeballos, Rodolfo Pienika, Gabriel Narancio<br />
+					<br />
+					<b>Áreas temáticas de investigación:</b><br />
+					Este grupo de investigación realiza trabajos destinados a analizar las diferentes situaciones que se plantean en la Ingeniería del Viento utilizando como herramientas la modelación tanto física como numérica, así como trabajo de campo. Entre als líneas de investigación y asesoramiento se encuentran la acción del viento sobre construcciones como ser edificios elevados, edificios bajos y líneas de alta tensión, el efecto de las edificaciones sobre el clima de viento, la acción del viento sobre árboles y cultivos, la descripción de eventos extremos, la dispersión de contaminantes atmosféricos y la calibración de anemómetros.<br />
+					Se dispone de un túnel de viento tipo capa límite con una zona de trabajo de 17m de longitud, 2.25m de ancho y 2.1m de altura con una velocidad nominal de 30m/s. Este túnel está equipado con un robot posicionador de probetas, un anemómetro de hilo/lámina caliente de tres canales, un sistema de medición de presiones de 2x64 tomas simultáneas, un sistema de medición de deformaciones, un sistema de visualización de flujos, dos sistemas de adquisición y procesamiento. A los efectos de realizar actividad de campo se dispone de estaciones anemométricas de basadas en anemómetros de copelas y veletas, estaciones anemométricas basadas en anemómetros ultrasónicos y anemómetros industriales.<br />
+					Entre los trabajos realizados se destaca el desarrollo de técnicas artificiales de simulación de flujos tipo capa límite atmosférica, el desarrollo de técnicas de visualización de flujos, el ensayo en modelo físico de los edificios del World Trade Center Montevideo y de la Torre de las Telecomunicaciones, el ensayo de silos y viviendas de baja altura, la caracterización del flujo de aire en el interior de una quinta de cítricos con el objeto de identificar las causas de daño por rameado.<br />
+					Actualmente se viene desarrollando una investigación orientada a la caracterización de eventos extremos de viento en Uruguay.<br />
+				</li>
+				<li style="display: none;">
+					<b>Grupo de investigación:</b><br />
 					Investigacion Operativa<br />
 					<br/>
 					<b>Institución:</b><br />
@@ -148,6 +191,28 @@
 					<br />
 					<b>Áreas temáticas de investigación:</b><br />
 					Modelos matemáticos para problemas complejos de decisión. Se investiga en temas de redes de comunicaciones,  optimización combinatoria, transporte colectivo urbano, y optimización estocástica.
+				</li>
+				<li style="display: none;">
+					<b>Grupo de investigación:</b><br />
+					Laboratorio de Biología de Sistemas<br />
+					<br/>
+					<b>Institución:</b><br />
+					Instituto de Biología, Depto. de Biología Celular y Molecular, Facultad de Ciencias<br />
+					<br />
+					<b>Página web:</b><br />
+					<a href="http://lbs.fcien.edu.uy/">http://lbs.fcien.edu.uy/</a><br />
+					<br />
+					<b>Responsable:</b><br />
+					Luis Acerenza<br />
+					<br />
+					<b>Representante ante el NICCAD:</b><br />
+					Luis Acerenza<br />
+					<br />
+					<b>Áreas temáticas de investigación:</b><br />
+					Desarrollo de estrategias generales para el análisis y diseño de procesos metabólicos en sistemas celulares. En particular, desarrollo de métodos modulares y de grandes cambios.<br/><br />
+					Estudio de propiedades estequiométricas y de control de redes metabólicas complejas.<br/><br />
+					Elaboración de modelos específicos para describir procesos a nivel molecular, celular y poblacional como, por ejemplo, modelos de receptores moleculares, oscilaciones metabólicas y evolución bacteriana.<br/><br />
+					Desarrollo de procedimientos para la modificación de sistemas celulares con fines biotecnológicos y biomédicos.<br/>
 				</li>
 				<li style="display: none;">
 					<b>Nombre del grupo:</b><br />
