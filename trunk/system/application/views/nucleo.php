@@ -197,7 +197,7 @@
 					Laboratorio de Biología de Sistemas<br />
 					<br/>
 					<b>Institución:</b><br />
-					Instituto de Biología, Depto. de Biología Celular y Molecular, Facultad de Ciencias<br />
+					Instituto de Biología, Facultad de Ciencias<br />
 					<br />
 					<b>Página web:</b><br />
 					<a href="http://lbs.fcien.edu.uy/">http://lbs.fcien.edu.uy/</a><br />
