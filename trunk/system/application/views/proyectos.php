@@ -41,6 +41,38 @@
 	<div style="border-width: 2px; border-color: #5EA3CE; border-style: solid;">
 		<div style="background-color: #5EA3CE; padding-left: 5px; padding-right: 5px; padding-top: 2px; 
 			padding-bottom:2px; font-size: 16px; font-weight: bold; color: white;">
+			Heterogeneous computing scheduling with evolutionary algorithms</div>
+		<div style="padding-left: 5px; padding-right: 5px; padding-top: 2px; padding-bottom:2px; font-size: 12px;">
+			<div style="padding-top: 1px; padding-bottom:1px;">
+				<span style="font-weight: bold;">Grupo:</span> 
+				Centro de Cálculo.
+			</div>
+			<div style="padding-top: 1px; padding-bottom:1px;">
+				<span style="font-weight: bold;">Investigadores:</span> 
+				Sergio Nesmachnow, Héctor Cancela, Enrique Alba.
+			</div>
+			<div style="padding-top: 1px; padding-bottom:1px;">
+				<span style="font-weight: bold;">Resumen</span>: 
+				<span  style="font-style: italic;">This work presents sequential and parallel 
+				evolutionary algorithms (EAs) applied to the scheduling problem in heterogeneous 
+				computing environments, a NP-hard problem with capital relevance in distributed computing. 
+				These methods have been specifically designed to provide accurate and efficient solutions 
+				by using simple operators that allow them to be later extended for solving realistic 
+				problem instances arising in distributed heterogeneous computing (HC) and grid systems. 
+				The EAs were codified over MALLBA, a general-purpose library for combinatorial optimization. 
+				Efficient numerical results are reported in the experimental analysis performed on well-known 
+				problem instances. The comparative study of scheduling methods shows that the parallel versions 
+				of the implemented evolutionary algorithms are able to achieve high problem solving efficacy, 
+				outperforming traditional scheduling heuristics and also improving over previous results already 
+				reported in the related literature.</span>
+			</div>
+			<div style="text-align: right; margin-bottom: 5px;"><a target="_new" href="http://www.springerlink.com/content/x368l7811482h2n8/" 
+				style="background-image: url(../img/1291578964_page_white_acrobat.png); background-repeat: no-repeat; padding-left: 24px; padding-bottom: 2px;">descargar artículo</a></div>
+		</div>
+	</div>
+	<div style="border-width: 2px; border-color: #5EA3CE; border-style: solid;">
+		<div style="background-color: #5EA3CE; padding-left: 5px; padding-right: 5px; padding-top: 2px; 
+			padding-bottom:2px; font-size: 16px; font-weight: bold; color: white;">
 			Metaheurísticas para el Diseño de Redes Multioverlay Robustas</div>
 		<div style="padding-left: 5px; padding-right: 5px; padding-top: 2px; padding-bottom:2px; font-size: 12px;">
 			<div style="padding-top: 1px; padding-bottom:1px;">
