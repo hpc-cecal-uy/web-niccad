@@ -4,6 +4,44 @@
 	<div style="border-width: 2px; border-color: #5EA3CE; border-style: solid;">
 		<div style="background-color: #5EA3CE; padding-left: 5px; padding-right: 5px; padding-top: 2px; 
 			padding-bottom:2px; font-size: 16px; font-weight: bold; color: white;">
+			A cellular ant colony optimisation for the generalised Steiner problem</div>
+		<div style="padding-left: 5px; padding-right: 5px; padding-top: 2px; padding-bottom:2px; font-size: 12px;">
+			<div style="padding-top: 1px; padding-bottom:1px;">
+				<span style="font-weight: bold;">Grupo:</span> 
+				Centro de Cálculo.
+			</div>
+			<div style="padding-top: 1px; padding-bottom:1px;">
+				<span style="font-weight: bold;">Investigadores:</span> 
+				Martín Pedemonte, Héctor Cancela.
+			</div>
+			<div style="padding-top: 1px; padding-bottom:1px;">
+				<span style="font-weight: bold;">Resumen</span>: 
+				<span  style="font-style: italic;">The development of exact and heuristic 
+				algorithms for communication network design requires ever-growing amounts 
+				of computational power. In particular, finding a dependable, fault-tolerant 
+				network topology can be modelled as the generalised Steiner problem (GSP). 
+				This problem belongs to the NP-hard class, so that exact methods cannot be 
+				applied to real life sized problems. An alternative is using metaheuristics, 
+				but even in this case the computation time can quickly grow leading to 
+				extremely long runs or to degraded quality results.
+				In this paper, we discuss the use of parallel implementations as a means to 
+				tackle this computational performance bottleneck. In particular, we 
+				concentrate on the ant colony optimisation (ACO) metaheuristic. We review 
+				previous ACO approaches for solving the GSP, as well as literature on 
+				parallelisation of this method. We propose and develop a new parallel model 
+				suitable for ACO, called cellular ACO, which is then applied to the GSP. 
+				We present computational results for large GSP instances, showing that 
+				cellular ACO finds high quality solutions, comparable to the best published 
+				sequential and parallel metaheuristics, while attaining a large speedup, 
+				resulting in very good computational efficiency.</span>
+			</div>
+			<div style="text-align: right; margin-bottom: 5px;"><a href="http://www.ingentaconnect.com/content/ind/ijica/2010/00000002/00000003/art00005" target="_new"
+				style="background-image: url(../img/1291578964_page_white_acrobat.png); background-repeat: no-repeat; padding-left: 24px; padding-bottom: 2px;">descargar artículo</a></div>
+		</div>
+	</div>
+	<div style="border-width: 2px; border-color: #5EA3CE; border-style: solid;">
+		<div style="background-color: #5EA3CE; padding-left: 5px; padding-right: 5px; padding-top: 2px; 
+			padding-bottom:2px; font-size: 16px; font-weight: bold; color: white;">
 			Aplicación del modelo WRFARW a la predicción de la generación de energía eléctrica en parques eólicos</div>
 		<div style="padding-left: 5px; padding-right: 5px; padding-top: 2px; padding-bottom:2px; font-size: 12px;">
 			<div style="padding-top: 1px; padding-bottom:1px;">
