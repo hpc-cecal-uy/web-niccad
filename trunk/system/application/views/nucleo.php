@@ -146,9 +146,7 @@
 					<br />
 					<br />
 					<b>Integrantes:</b><br />
-					José Cataldo, Ventura Nunes, Gonzalo Casaravilla, Valeria Durañona,
-					Mario Vignolo, Ruben Chaer, Alejandro Gutiérrez, Martín Zeballos
-					Rodolfo Pienika, Gabriel Narancio, Pablo Toscano<br />
+					Pablo Dans, Matias Machado, Leonardo Darre, Humberto Gonzalez, Ari Zeida, Astrid Brandner<br />
 					<br />
 					<b>Áreas temáticas de investigación:</b><br />
 					La determinacion estructural y el estudio de interacciones entre
