@@ -39,6 +39,7 @@
 				<li><a href="javascript:;">Computational chemistry and biology group<span></span></a></li>
 				<li><a href="javascript:;">Física Computacional<span></span></a></li>
 				<li><a href="javascript:;">Geofísica Planetaria<span></span></a></li>
+				<li><a href="javascript:;">Grupo de Simulaciones Biomoleculares<span></span></a></li>
 				<li><a href="javascript:;">Grupo de Trabajo en Energías Renovables<span></span></a></li>
 				<li><a href="javascript:;">Ingeniería del Viento<span></span></a></li>
 				<li><a href="javascript:;">Investigacion Operativa<span></span></a></li>
