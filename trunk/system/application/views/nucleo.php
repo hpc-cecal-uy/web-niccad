@@ -135,6 +135,46 @@
 				</li>
 				<li style="display: none;">
 					<b>Grupo de investigación:</b><br />
+					Grupo de Simulaciones Biomoleculares<br />
+					<br/>
+					<b>Institución:</b><br />
+					Institut Pasteur de Montevideo<br />
+					<br />
+					<b>Responsables:</b><br />
+					Sergio Pantano
+					<br />
+					<br />
+					<b>Integrantes:</b><br />
+					José Cataldo, Ventura Nunes, Gonzalo Casaravilla, Valeria Durañona,
+					Mario Vignolo, Ruben Chaer, Alejandro Gutiérrez, Martín Zeballos
+					Rodolfo Pienika, Gabriel Narancio, Pablo Toscano<br />
+					<br />
+					<b>Áreas temáticas de investigación:</b><br />
+					La determinacion estructural y el estudio de interacciones entre
+					macromoleculas de interes biologico plantea importantes desafios desde el
+					punto de vista experimental debido a tendencia a la agregacion, alta
+					flexibilidad, dificultades en la purificacion o imposibilidad de obtener cantidades
+					de muestras necesarias, etc. La modelizacion computacionales de sistemas
+					moleculares proveen una herramienta alternativa y confiable para estudiar la
+					estructura, dinamica y energetica de las interacciones que determinan el
+					reconocimiento y la formacion de complejos moleculares. Tecnicas como la de
+					dinamica molecular utilizadas en nuestro grupo permiten obtener no solo
+					informacion estructural detallada sino tambien incluir efectos de la temperatura
+					y registrar la evolucion de un sistema a travez de la coordenada temporal. Por
+					otra parte las tecnicas computacionales permiten modificar con relativa facilidad
+					un gran numero de condiciones experimentales distintas como temperatura,
+					tamaño de la muestra, fuerza ionica, concentraciones, mutaciones puntiformes,
+					modificaciones post transcripcionales, muestrear enlace de distintos ligandos,
+					etc. El grupo de simulaciones biomoleculares del Institut Pasteur de
+					Montevideo se ocupa del estudio de interacciones entre moleculas de interes
+					biomedico utilizando una variedad de herramientas de biofisica/bioquimica
+					teoricas como simulaciones por dinamica molecular, modelizacion por
+					homologia y bioinformatica. La utilizacion de estos metodos complementados					
+					con datos experimentales permite aportar nuevas perspectivas en el estudio y
+					caracterizacion de sistemas biologicos.<br />
+				</li>			
+				<li style="display: none;">
+					<b>Grupo de investigación:</b><br />
 					Grupo de Trabajo en Energías Renovables<br />
 					<br/>
 					<b>Institución:</b><br />
