@@ -26,7 +26,7 @@
 					<li><a href="<?php echo base_url();?>index.php#cometidos">Cometidos</a></li>
 					<li><a href="<?php echo base_url();?>index.php#estructura">Estructura</a></li>
 					<li><a href="<?php echo base_url();?>index.php#grupos">Grupos</a></li>
-					<li><a href="<?php echo base_url();?>index.php/proyectos">Proyectos</a></li>
+					<li><a href="<?php echo base_url();?>index.php?proyectos">Proyectos</a></li>
 				</ul>
 			</div>
 			
