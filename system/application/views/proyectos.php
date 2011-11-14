@@ -72,7 +72,7 @@
 				numérica fueron contrastados con mediciones en campo de
 				velocidad y dirección de viento.</span>
 			</div>
-			<div style="text-align: right; margin-bottom: 5px;"><a href="<?php echo base_url();?>downloads/Aplicacion_del_modelo_WRFARW_a_la_prediccion_de_la_generacion_de_energia_electrica_en_parques_eolicos.pdf" 
+			<div style="text-align: right; margin-bottom: 5px;"><a href="<?php echo base_url();?>downloads/modelo_WRFARW.pdf" 
 				style="background-image: url(../img/1291578964_page_white_acrobat.png); background-repeat: no-repeat; padding-left: 24px; padding-bottom: 2px;">descargar artículo</a></div>
 		</div>
 	</div>
@@ -144,7 +144,7 @@
 				una clara ventaja del Tabu Search sobre el Algoritmo Genético y
 				el híbrido implementados.</span>
 			</div>
-			<div style="text-align: right; margin-bottom: 5px;"><a href="<?php echo base_url();?>downloads/Metaheuristicas_para_el_Disenio_de_Redes_Multioverlay_Robustas.pdf" 
+			<div style="text-align: right; margin-bottom: 5px;"><a href="<?php echo base_url();?>downloads/redes_multioverlay.pdf" 
 				style="background-image: url(../img/1291578964_page_white_acrobat.png); background-repeat: no-repeat; padding-left: 24px; padding-bottom: 2px;">descargar artículo</a></div>
 		</div>
 	</div>
@@ -176,7 +176,7 @@
 				explorar su potencial con miras a la investigación de mejores métodos 
 				a sabiendas que el algoritmo implementado es seguramente mejorable.</span>
 			</div>
-			<div style="text-align: right; margin-bottom: 5px;"><a href="<?php echo base_url();?>downloads/Optimizacion_genetica_aplicada_a_la_planificacion_de_inversiones_de_generacion_electrica.pdf" 
+			<div style="text-align: right; margin-bottom: 5px;"><a href="<?php echo base_url();?>downloads/opt_genetica.pdf" 
 				style="background-image: url(../img/1291578964_page_white_acrobat.png); background-repeat: no-repeat; padding-left: 24px; padding-bottom: 2px;">descargar artículo</a></div>
 		</div>
 	</div>
