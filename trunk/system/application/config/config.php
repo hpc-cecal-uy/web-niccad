@@ -11,7 +11,7 @@
 |	http://example.com/
 |
 */
-$config['base_url']	= "/web-niccad/";
+$config['base_url']	= "http://www.fing.edu.uy/grupos/niccad/";
 
 /*
 |--------------------------------------------------------------------------
