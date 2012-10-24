@@ -43,7 +43,7 @@
 $route['default_controller'] = "nucleo";
 $route['scaffolding_trigger'] = "";
 
-//$route['script'] = "QSubScript/index";
+//$route['proyectos'] = "proyectos/index";
 
 /* End of file routes.php */
 /* Location: ./system/application/config/routes.php */
