@@ -1,4 +1,11 @@
 <div>
+        <h3><a name="noticias">Noticias y Eventos</a></h3>
+        <div class="contenido">
+		<ul>
+			<li><b>08-11-2012</b>&nbsp;STIC-AmSud Scientific Meeting: "High performance scientific computing in cluster, grid, and cloud computing systems" y "III Seminario multidisciplinario de computación científica de alto desempeño"&nbsp;<a href="http://www.fing.edu.uy/grupos/niccad/stic-amsud-2012/">(información)</a></li>
+			<li><b>16-10-2012</b>&nbsp;Evento interdisciplinario PEDECIBA: "Computación Cientifíca de Alto Desempeño"&nbsp;<a href="http://www.fing.edu.uy/grupos/niccad/ccad-2012/">(información)</a></li>
+		</ul>
+        </div>
 	<h3><a name="integracion">Integración</a></h3>
 	<div class="contenido">
 		El NICCAD pretende ser una estructura transversal que promueva la integración de investigadores con formación variada, tratando de aportar sus propios puntos de vista sobre la utilización de las técnicas matemáticas y de computación para la resolución de diversos problemas científicos.
