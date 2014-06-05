@@ -2,6 +2,7 @@
         <h3><a name="noticias">Noticias y Eventos</a></h3>
         <div class="contenido">
 		<ul>
+			<li><b>17-05-2013</b>&nbsp;Se incorpora al NICCAD el Grupo de Mecánica de Sólidos Computacional del Departamento de Estructuras (IET) de la Facultad de Ingeniería.
 			<li><b>08-11-2012</b>&nbsp;STIC-AmSud Scientific Meeting: "High performance scientific computing in cluster, grid, and cloud computing systems" y "III Seminario multidisciplinario de computación científica de alto desempeño"&nbsp;<a href="http://www.fing.edu.uy/grupos/niccad/stic-amsud-2012/">(información)</a></li>
 			<li><b>16-10-2012</b>&nbsp;Evento interdisciplinario PEDECIBA: "Computación Cientifíca de Alto Desempeño"&nbsp;<a href="http://www.fing.edu.uy/grupos/niccad/ccad-2012/">(información)</a></li>
 		</ul>
@@ -46,6 +47,7 @@
 				<li><a href="javascript:;">Computational chemistry and biology group<span></span></a></li>
 				<li><a href="javascript:;">Física Computacional<span></span></a></li>
 				<li><a href="javascript:;">Geofísica Planetaria<span></span></a></li>
+				<li><a href="javascript:;">Grupo de Mecánica de Sólidos Computacional<span></span></a></li>
 				<li><a href="javascript:;">Grupo de Simulaciones Biomoleculares<span></span></a></li>
 				<li><a href="javascript:;">Grupo de Trabajo en Energías Renovables<span></span></a></li>
 				<li><a href="javascript:;">Ingeniería del Viento<span></span></a></li>
@@ -141,6 +143,23 @@
 					<b>Áreas temáticas de investigación:</b><br />
 					Simulaciones numéricas y experimentales de los procesos que sufren los medios granulares sometidos a vibraciones generadas en un impacto. Los resultados se aplican al estudio de asteroides y cometas formados como aglomerados de partículas.
 				</li>
+				<li style="display: none;">
+					<b>Grupo de investigación:</b><br />
+					Grupo de Mecánica de Sólidos Computacional<br />
+					<br/>
+					<b>Institución:</b><br />
+					Dpto. de Estructuras (IET), Facultad de Ingeniería<br />
+					<br />
+					<b>Responsable:</b><br />
+					Alfredo Canelas
+					<br />
+					<b>Representante ante el NICCAD:</b><br />
+					Jorge Pérez Zerpa<br />
+					<br />
+					<b>Áreas temáticas de investigación:</b><br />
+					El Grupo de Mecánica de Sólidos Computacional trabaja en el modelado y simulación numérica de problemas de elasticidad, viscoelasticidad, plasticidad, etc. Estos problemas son definidos sobre cuerpos sólidos sometidos a tensiones y/o deformaciones.
+					<br />
+				</li>			
 				<li style="display: none;">
 					<b>Grupo de investigación:</b><br />
 					Grupo de Simulaciones Biomoleculares<br />
