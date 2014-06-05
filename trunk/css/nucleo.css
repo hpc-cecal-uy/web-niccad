@@ -13,7 +13,7 @@ h3 {
 
 div#feature_list {
 	width: 890px;
-	height: 640px;
+	height: 700px;
 	/*overflow: hidden;*/
 	position: relative;
 }
@@ -95,7 +95,7 @@ ul#output li {
 	position: absolute;
 	top: 0px;
 	left: 10px;
-	height: 640px;
+	height: 700px;
 	width: 624px;
 	padding: 8px 12px;
 	text-decoration: none;
